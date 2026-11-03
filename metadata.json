@@ -1,0 +1,8 @@
+{
+  "name": "Wholesale Pro",
+  "description": "Professional Wholesale Store Management System for inventory, ordering, and profit tracking with real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
